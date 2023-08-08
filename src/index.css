@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  background-color: black;
+}
+h1 {
+  text-align: center;
+  font-size: 35px;
+  font-family: cursive;
+  color: aliceblue;
+}
+.container {
+  margin-left: 33%;
+  gap: 50px;
+}
+ul, li {
+  font-family: cursive;
+  color: aliceblue;
+
+}
+button {
+  font-family: cursive;
+  color: aliceblue;
+  border-radius: 5px;
+  border: 2px seashell solid;
+}
+input {
+  color: aliceblue;
+  width: 300px;
+  height: 30px;
+  border-radius: 5px;
+  border: 2px aqua solid;
+}
